@@ -41,4 +41,4 @@ Hands-on experience in **database design, query writing, analytics, and real-tim
 ## ✍️ Author
 **Pabitra Pramanik** | Skills: SQL, Data Handling, Reporting, Database Design  
 📧 [pabitrapramanik80@gmail.com](mailto:pabitrapramanik80@gmail.com)  
-🌐 [GitHub Profile](https://github.com/pabitrapramanik)
+🌐 [GitHub Profile]xpert Pabitra
