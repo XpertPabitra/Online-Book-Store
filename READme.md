@@ -1,5 +1,5 @@
 # 📚 Online Book Store (SQL Project)
-![Online Book Store](images/bookstoreimage.jpg)
+![Online Book Store](bookstoreimage.jpg)
 
 This project is a **Database Management System** for an Online Book Store. It efficiently manages **books 📖, customers 👥, and orders 🛒**, supporting full **CRUD operations**, transaction tracking, and report generation. All SQL practice questions, from basic retrievals to advanced analytics — like genre-wise sales, top customers, stock management, revenue calculation, and high-spending analysis — have been solved ✅. Data is imported from **CSV files** for testing. The database is **normalized** to ensure integrity, reduce redundancy, and support real-world use cases.
 
